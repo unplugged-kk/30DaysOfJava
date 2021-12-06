@@ -8,6 +8,10 @@ import java.util.Scanner;
 
 public class Main {
 
+    public static void printJava() {
+        System.out.println("Hello Java");
+    }
+
     public static void main(String[] args) {
 	// Variables
         System.out.println("Hello Java !!");
@@ -199,9 +203,9 @@ public class Main {
         } while (l>=1);
         }
 
-        // Try & Catch in exception handling
+        // Function call
 
-        int[] markss = {78,89,90};
+
 
 
 
