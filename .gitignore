@@ -24,3 +24,9 @@ hs_err_pid*
 
 # intellij dir
 .idea
+
+.DS_Store
+30DaysOfJava.iml
+Java-dsa/.DS_Store
+src/.DS_Store
+src/com/.DS_Store
